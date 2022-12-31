@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome! This is the documentation for Discoursy's API.
+Welcome! This is the documentation for Derailed's API.
 
 This includes everything from our Gateway, to API.
 
@@ -12,16 +12,16 @@ This includes everything from our Gateway, to API.
 
 ## Identification Standard
 
-The entire Discoursy API uses Twitter's Snowflake ID,
+The entire Derailed API uses Twitter's Snowflake ID,
 which consists of multiple fields.
 
-The fields themselves will be detailed here soon but for now we'll be detailing only the Discoursy Epoch.
+The fields themselves will be detailed here soon but for now we'll be detailing only the Derailed Epoch.
 
 The Epoch for Discoursy is the first second of the first of January 2023 or `1672534801000`.
 
 ## API Versioning & Routing
 
-Discoursy's API & Gateway are interconnected, allowing you to use them both at once.
+Derailed's API & Gateway are interconnected, allowing you to use them both at once.
 Take note though: **this will eventually be disconnected and they'll be separated**.
 
 For now the only version is 1 for both the API and Gateway.

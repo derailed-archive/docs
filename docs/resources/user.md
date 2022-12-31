@@ -1,5 +1,5 @@
 # User
-Users are Discoursy's root controllers,
+Users are Derailed's root controllers,
 they have access to most, or if not all, of
 our featureset and get supreme reign over bots 
 
@@ -11,7 +11,4 @@ our featureset and get supreme reign over bots
 | username      | string    |
 | discriminator | string    |
 | email?        | string    |
-| flags?        | integer   |
-| app?          | boolean   |
-| system?       | boolean   |
-| verified?     | boolean   |
+
