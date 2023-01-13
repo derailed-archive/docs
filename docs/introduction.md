@@ -17,7 +17,7 @@ which consists of multiple fields.
 
 The fields themselves will be detailed here soon but for now we'll be detailing only the Derailed Epoch.
 
-The Epoch for Discoursy is the first second of the first of January 2023 or `1672531200000`.
+The Epoch for Derailed is the first second of the first of January 2023 or `1672531200000`.
 
 ## API Versioning & Routing
 
