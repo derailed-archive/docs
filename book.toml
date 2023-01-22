@@ -1,0 +1,11 @@
+[book]
+authors = ["VincentRPS"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Derailed API Docs"
+
+[output.html]
+site-url = "/docs/"
+git-repository-url = "https://github.com/derailedapp/docs"
+edit-url-template = "https://github.com/derailedapp/docs/edit/main/{path}"
